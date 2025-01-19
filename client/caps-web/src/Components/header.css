@@ -1,0 +1,32 @@
+.header
+{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    z-index: 1000;
+    background-color:#3D52A0;
+    color:rgb(0, 0, 0);
+    padding: 10px 0;
+    border-radius: 2px;
+    border: 1px solid #5891bc;
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.9);
+}
+.header-container {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+}
+.logo
+{
+    margin: 2px auto;
+    height:auto;
+    max-width: 50px;
+    padding: 2px;
+}
+h1 {
+    flex: 1; 
+    text-align: left; 
+    margin: 5px; 
+    font-size: 24px; 
+}

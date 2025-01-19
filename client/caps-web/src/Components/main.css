@@ -1,0 +1,28 @@
+.main-section{
+    display:flex;
+    justify-content: space-between;
+    gap:20px;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+.left,
+.right
+{
+    flex: 1;
+    background-color: #ede8f5;
+    padding:20px;
+    border-radius: 5px;
+    border: 3px solid #5888bc;
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.9);
+}
+.left{
+    background-color: lavender;
+    max-width: 70%;
+    text-align: justify;
+    font-size: 25px;
+}
+.right{
+    background-color: rgb(217, 220, 250);
+    max-width: 30%;
+}

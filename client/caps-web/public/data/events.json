@@ -1,0 +1,12 @@
+{
+    "pastEvents": [
+      { "id": 1, "image": "images/poster3.jpeg", "title": "Event 1" },
+      { "id": 2, "image": "images/poster4.jpeg", "title": "Event 2" },
+      { "id": 3, "image": "images/poster5.jpeg", "title": "Event 3" }
+    ],
+    "upcomingEvents": [
+      { "id": 1, "image": "images/poster1.png", "title": "Upcoming Event 1" },
+      { "id": 2, "image": "images/poster2.png", "title": "Upcoming Event 2" }
+    ]
+  }
+  
