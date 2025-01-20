@@ -46,4 +46,13 @@
     margin-top: 10px;
     font-size: 18px;
   }
-  
+  @media (max-width: 768px) {
+    .carousel img {
+        height: auto;
+    }
+
+    .event-buttons button {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+}

@@ -1,8 +1,9 @@
 .main-section{
     display:flex;
     justify-content: space-between;
-    gap:20px;
-    padding: 10px;
+    flex-wrap:wrap;
+    gap:30px;
+    padding: 20px;
     margin-top: 100px;
 }
 
@@ -17,7 +18,7 @@
     box-shadow: 0 10px 12px rgba(0, 0, 0, 0.9);
 }
 .left{
-    background-color: lavender;
+    background-color: rgb(217, 220, 250);
     max-width: 70%;
     text-align: justify;
     font-size: 25px;
@@ -25,4 +26,22 @@
 .right{
     background-color: rgb(217, 220, 250);
     max-width: 30%;
+}
+h3{
+    font-size: 26px;
+}
+
+@media (max-width: 768px) {
+    .main-section {
+        flex-direction: column; 
+    }
+
+    .left,
+    .right {
+        max-width: 100%;
+    }
+
+    .left {
+        margin-bottom: 20px;
+    }
 }

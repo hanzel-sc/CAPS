@@ -49,7 +49,6 @@ function Events() {
             {eventImages.map((event) => (
               <div key={event.id} className="carousel-item">
                 <img src={event.image} alt={event.title} />
-                <p>{event.title}</p>
               </div>
             ))}
           </Slider>

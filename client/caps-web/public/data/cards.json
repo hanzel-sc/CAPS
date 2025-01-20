@@ -4,21 +4,28 @@
         "title":"Tech Tank",
         "description":"The brains of the operation",
         "extrainfo":"Taking up technical challenges and providing efficient solutions, Tech Tank functions as the technology backend for CAPS",
-        "image": "/images/tank.png"
+        "image": "/images/tank2.png"
     },
     {
         "id":2,
-        "title":"Peer Teaching",
+        "title":"Peer Training",
         "description":"Fostering peer learning",
         "extrainfo":"Honing leadership, oratory and communication skills, Peer Learning helps both the individual and group grow holistically",
-        "image": "/images/peer.png"
+        "image": "/images/peer2.png"
     },
     {
         "id":3,
         "title":"Event Management",
         "extrainfo":"The workforce behind every operation. From reconnaisance to completion, these guys see it through",
         "description":"The organizers",
-        "image": "/images/event.png"
+        "image": "/images/event2.png"
+    },
+    {
+        "id":4,
+        "title":"Media and PR",
+        "extrainfo":"Where imagination meets function. From posters to stories, these guys get the message accross",
+        "description":"Where creative minds unite",
+        "image": "/images/media2.png"
     }
     
 ]
