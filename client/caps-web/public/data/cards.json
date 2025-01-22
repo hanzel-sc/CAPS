@@ -8,14 +8,14 @@
     },
     {
         "id":2,
-        "title":"Peer Training",
-        "description":"Fostering peer learning",
-        "extrainfo":"Honing leadership, oratory and communication skills, Peer Learning helps both the individual and group grow holistically",
+        "title":"CG & QC",
+        "description":"Psychometric Assessments",
+        "extrainfo":"Providing tailored psychoeducational sessions with scientifically validated psychometric assessments designed to enhance self awareness and equip you with invaluable skills for success.",
         "image": "/images/peer2.png"
     },
     {
         "id":3,
-        "title":"Event Management",
+        "title":"Operations",
         "extrainfo":"The workforce behind every operation. From reconnaisance to completion, these guys see it through",
         "description":"The organizers",
         "image": "/images/event2.png"
@@ -26,6 +26,13 @@
         "extrainfo":"Where imagination meets function. From posters to stories, these guys get the message accross",
         "description":"Where creative minds unite",
         "image": "/images/media2.png"
+    },
+    {
+        "id":5,
+        "title":"Research",
+        "extrainfo":"Constantly in the pursuit of excellence and discovery with critical thinking and passion their guide",
+        "description":"Forging innovation and novelty",
+        "image": "/images/research2.png"
     }
     
 ]

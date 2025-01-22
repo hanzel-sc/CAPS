@@ -37,7 +37,8 @@ function SignUpModal({ isOpen, onClose }) {
                             <option value="Option 1">Tech Tank</option>
                             <option value="Option 2">Operations</option>
                             <option value="Option 3">Media and PR</option>
-                            <option value="Option 4">Peer Training</option>
+                            <option value="Option 4">CG & QC</option>
+                            <option value="Option 5">Research</option>
                         </select>
                     </label>
                     <button type="submit" className="submit-button">
